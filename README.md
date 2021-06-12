@@ -32,3 +32,10 @@ My skills in python has expanded, I learned about client - server conenction, pi
 Overall, the project was very fun to write, python is very friendly language and the documentation in great.
 
 <b>Mateusz Pieróg</b><br>
+What I have learned:
+- It is better to spend more time designing the solution than later struggling to resolve many unexpected bugs.
+- List and dict comprehension are great alternatives for loops.
+- I have understood how a simple client and server based system works.
+- I have a better understanding of multi-threaded programs.
+- Usually there is a python library with the tools we need.
+- Python is a very popular language  which makes it easy to find a solution to a given problem.
